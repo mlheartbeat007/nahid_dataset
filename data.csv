@@ -1,0 +1,42 @@
+,Driver,,,,,Environment,,,,vehicle,,,,Max Fault,,,
+How,Insane,Addicted,Unathorized,Less experience,overall,Road bad condition,Unconcerpedestrian,bad weather,overall,Unfitness,no liscence,Aged,overall,,Weight,Accident,Vehicle
+Motorcycle skidded off the road after hitting the railings.,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,d,0.5,1,Motorbike
+After skidded off the road the bus hit the tree.,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,e,0.5,1,Bus
+bus felt into Roadside ditch   ,1,0,0,1,0.5,1,1,0,0.666666666666667,0,0,1,0.333333333333333,e,0.17,1,Bus
+bus and private car collision  ,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,1,0.666666666666667,v,0.5,1,Bus and Private car
+bus thrush rickshaw  ,1,0,0,0,0.25,1,0,0,0.333333333333333,0,1,1,0.666666666666667,v,0.33,1,Bus and Rickshaw
+Bus hit a tree beside Dhaka-Chittagong highway ,1,0,1,0,0.5,1,0,0,0.333333333333333,1,0,0,0.333333333333333,d,0.33,1,Bus
+loaded truck get over a Rickshaw ,0,0,0,1,0.25,0,0,1,0.333333333333333,1,1,0,0.666666666666667,e,0.25,1,Truck and Rickshaw
+microbus lose control ,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,1000,0.06,1,Micribus
+truck get over on the passer by,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,1001,0.25,1,Truck
+driver loses control on steering  ,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,1001,0.25,1,Truck
+A Dhaka bound bus collided head-on with a truck,1,0,0,1,0.5,1,1,0,0.666666666666667,0,0,1,0.333333333333333,1001,0.25,1,Bus & Truk
+Bus get over a motorcycle,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,1,0.666666666666667,1011,0.18,1,Bus and motocycle
+Bus thrust a trolley  ,1,0,0,0,0.25,1,0,0,0.333333333333333,0,1,1,0.666666666666667,1011,0.18,1,Bus and Trolley
+bus thrust ,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,0,0.333333333333333,1011,0.18,1,Bus
+bus thrust,0,0,0,1,0.25,0,0,1,0.333333333333333,1,1,0,0.666666666666667,1100,0.06,1,Bus & Motorcycle
+Bus and cng Face to face clash,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,1101,0.43,1,Bus and Cng
+bus and trucktor accident ,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,0,0.333333333333333,1101,0.43,1,Bus and Truck
+noah van hit an easy-bike  ,0,0,0,1,0.25,0,0,1,0.333333333333333,1,1,0,0.666666666666667,1101,0.43,1,Van and bike
+A speeding car hit the autorickshaw face to face,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,1101,0.43,1,Car & Auto rickshaw
+Bus skidded off the road  and run over the pedestrains after driver lost control over steering.,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,1101,0.43,1,Bus
+motorcycle and truck collision  ,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,1101,0.43,1,Motorcycle and Truck
+A microbus collided with another oncoming microbus,1,0,0,1,0.5,1,1,0,0.666666666666667,0,0,1,0.333333333333333,1101,0.43,1,2 Microbuses
+pickup accident  ,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,1,0.666666666666667,11000,0.75,1,Pickup
+bus collided  with another bus ,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,11000,0.75,1, two Bus
+bus collided  with another bus ,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,11000,0.75,1,2 Buses
+The bus plunged into roadside ditch after the driver lost his control over the steering.,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,11001,0.25,1,Bus
+no  ,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,1101,0,0,0
+no  ,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,0,0.333333333333333,1100,0,0,0
+no  ,0,0,0,1,0.25,0,0,1,0.333333333333333,1,1,0,0.666666666666667,1101,0,0,0
+no  ,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,1100,0,0,0
+no  ,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,11011,0,0,0
+no  ,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,1100,0,0,0
+no  ,1,0,0,1,0.5,1,1,0,0.666666666666667,0,0,1,0.333333333333333,1101,0,0,0
+no  ,0,0,1,0,0.25,1,0,1,0.666666666666667,1,0,1,0.666666666666667,10010,0,0,0
+no  ,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,11010,0,0,0
+no  ,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,1100,0,0,0
+no  ,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,1101,0,0,0
+no  ,1,1,0,0,0.5,0,0,0,0,0,0,1,0.333333333333333,1100,0,0,0
+no  ,1,0,0,0,0.25,0,1,0,0.333333333333333,0,0,0,0,10010,0,0,0
+no  ,1,0,1,1,0.75,0,0,0,0,1,0,0,0.333333333333333,11010,0,0,0
